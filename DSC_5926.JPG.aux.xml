@@ -1,0 +1,191 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="COMPRESSION">JPEG</MDI>
+  </Metadata>
+  <Metadata domain="ESRI">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:SplineXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.0">
+      <SpatialReference xsi:type="typens:ProjectedCoordinateSystem">
+        <WKT>PROJCS[&quot;WGS_1984_UTM_Zone_14N&quot;,GEOGCS[&quot;GCS_WGS_1984&quot;,DATUM[&quot;D_WGS_1984&quot;,SPHEROID[&quot;WGS_1984&quot;,6378137.0,298.257223563]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;False_Easting&quot;,500000.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,-99.0],PARAMETER[&quot;Scale_Factor&quot;,0.9996],PARAMETER[&quot;Latitude_Of_Origin&quot;,0.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,32614]]</WKT>
+        <XOrigin>-5120900</XOrigin>
+        <YOrigin>-9998100</YOrigin>
+        <XYScale>450445547.3910538</XYScale>
+        <ZOrigin>-100000</ZOrigin>
+        <ZScale>10000</ZScale>
+        <MOrigin>-100000</MOrigin>
+        <MScale>10000</MScale>
+        <XYTolerance>0.001</XYTolerance>
+        <ZTolerance>0.001</ZTolerance>
+        <MTolerance>0.001</MTolerance>
+        <HighPrecision>true</HighPrecision>
+        <WKID>32614</WKID>
+      </SpatialReference>
+      <SourceGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>673.57186217800893</Double>
+        <Double>-639.82994685528729</Double>
+        <Double>1249.1193567056305</Double>
+        <Double>-821.42204900821434</Double>
+        <Double>1707.3832738399506</Double>
+        <Double>-3405.7097727507353</Double>
+        <Double>507.25704473257065</Double>
+        <Double>-3005.7318769693375</Double>
+        <Double>2181.9626705050468</Double>
+        <Double>-1893.9736581891775</Double>
+        <Double>783.89012169837952</Double>
+        <Double>-2278.2077326923609</Double>
+        <Double>207.98765134811401</Double>
+        <Double>-2093.7078680247068</Double>
+        <Double>457.24890249967575</Double>
+        <Double>-1359.347474232316</Double>
+        <Double>1009.1978219151497</Double>
+        <Double>-1550.0434752851725</Double>
+        <Double>1600.8479029536247</Double>
+        <Double>-1725.0510493963957</Double>
+        <Double>1103.6639573574066</Double>
+        <Double>-3203.1019519120455</Double>
+        <Double>957.70924037694931</Double>
+        <Double>-731.99930889904499</Double>
+        <Double>1047.8593789935112</Double>
+        <Double>-467.53304725885391</Double>
+        <Double>1529.5592641830444</Double>
+        <Double>-919.36400026082993</Double>
+        <Double>1615.3686509132385</Double>
+        <Double>-650.48448033630848</Double>
+        <Double>1800.7660773992538</Double>
+        <Double>-1004.473262116313</Double>
+        <Double>1904.8601903915405</Double>
+        <Double>-740.88516700267792</Double>
+        <Double>2077.226184129715</Double>
+        <Double>-1094.0027275532484</Double>
+        <Double>2188.3262667059898</Double>
+        <Double>-827.00344926118851</Double>
+        <Double>2380.4184425473213</Double>
+        <Double>-1200.7413633465767</Double>
+        <Double>2458.4524211287498</Double>
+        <Double>-927.6596551835537</Double>
+        <Double>1950.1561074256897</Double>
+        <Double>-2658.6968072801828</Double>
+        <Double>1375.5857627987862</Double>
+        <Double>-2473.8078419566154</Double>
+      </SourceGCPs>
+      <TargetGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>467837.97170506016</Double>
+        <Double>4625581.5195726817</Double>
+        <Double>467834.53211483359</Double>
+        <Double>4625576.4263333082</Double>
+        <Double>467808.60289620282</Double>
+        <Double>4625579.1052449262</Double>
+        <Double>467815.54822262179</Double>
+        <Double>4625589.3247966571</Double>
+        <Double>467821.50135955232</Double>
+        <Double>4625570.50626936</Double>
+        <Double>467821.6336514841</Double>
+        <Double>4625584.6945790444</Double>
+        <Double>467825.00709574478</Double>
+        <Double>4625589.7878184188</Double>
+        <Double>467831.4563274195</Double>
+        <Double>4625585.587549584</Double>
+        <Double>467828.01673719299</Double>
+        <Double>4625580.6927481079</Double>
+        <Double>467824.61021994939</Double>
+        <Double>4625575.5664357515</Double>
+        <Double>467812.09071786277</Double>
+        <Double>4625584.2403767454</Double>
+        <Double>467836.26133574708</Double>
+        <Double>4625579.0307204695</Double>
+        <Double>467838.72196567839</Double>
+        <Double>4625577.4564464809</Double>
+        <Double>467832.80851632741</Double>
+        <Double>4625573.9639394823</Double>
+        <Double>467835.25591706549</Double>
+        <Double>4625572.3896654937</Double>
+        <Double>467831.15486718004</Double>
+        <Double>4625571.7943518003</Double>
+        <Double>467833.57580953179</Double>
+        <Double>4625569.8364312118</Double>
+        <Double>467829.52767641901</Double>
+        <Double>4625569.2411175184</Double>
+        <Double>467831.9089311912</Double>
+        <Double>4625567.3228845075</Double>
+        <Double>467827.63590179442</Double>
+        <Double>4625566.6481956569</Double>
+        <Double>467830.2288236575</Double>
+        <Double>4625564.9284005435</Double>
+        <Double>467814.99408479285</Double>
+        <Double>4625574.7675688723</Double>
+        <Double>467818.2583882098</Double>
+        <Double>4625579.7163895546</Double>
+      </TargetGCPs>
+    </GeodataXform>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <NoDataValue>2.56000000000000E+002</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>255.5</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>7014|1931|1271|1221|1057|904|877|854|723|718|723|684|679|652|675|677|671|699|704|707|696|765|720|739|846|778|759|801|814|832|877|894|926|973|958|1051|1058|1107|1082|1160|1091|1279|1258|1242|1256|1378|1410|1440|1481|1522|1585|1570|1639|1697|1782|1933|1920|1946|2059|2158|2160|2306|2396|2572|2676|2607|2901|3031|3120|3220|3422|3614|3863|4065|4258|4392|4711|5156|5448|5868|6322|6827|7274|7868|8550|9222|10131|10904|11823|13031|13849|15028|16496|18020|19636|21085|22715|24632|26635|28827|31016|33488|36770|38826|42259|45228|49236|52725|56150|60408|65419|69729|75260|81927|87717|95123|102974|111634|120568|131732|143276|156071|168465|182301|196253|209662|222873|235824|246782|257482|266838|273812|279754|282943|284724|283624|281975|277394|272060|263048|255142|245019|233543|222731|211480|199661|188330|176855|165219|154537|142917|132914|121950|111727|101930|92075|82792|73550|65762|57810|50866|44636|38863|33644|29428|25383|21737|18435|15957|13866|11729|9858|8567|7558|6407|5361|4495|3951|3363|2931|2432|2248|1875|1627|1371|1186|1113|895|783|757|619|582|507|426|426|361|306|292|267|275|263|222|183|205|192|198|184|160|167|141|146|120|131|134|142|119|121|113|89|123|136|107|105|92|95|87|95|80|90|97|75|94|87|83|89|78|86|93|96|93|95|86|101|93|94|99|125|136|129|152|93|167|166|83|140|1193</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">132.09301994455</MDI>
+      <MDI key="STATISTICS_STDDEV">18.919960137892</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <NoDataValue>2.56000000000000E+002</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>255.5</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>6694|1555|1284|1066|910|838|763|706|715|643|663|717|639|606|602|605|590|662|598|647|651|670|655|729|666|699|748|718|765|728|707|780|768|763|751|809|770|801|830|802|918|884|887|954|1005|1013|1049|1043|1140|1091|1149|1198|1307|1300|1354|1410|1364|1561|1629|1704|1663|1861|1900|2037|2082|2182|2299|2328|2370|2582|2619|2758|2912|3134|3235|3219|3388|3677|3867|4198|4374|4794|5266|5567|6000|6414|6958|7757|8441|9246|10210|11165|12314|13469|14982|16326|17802|19672|21491|23732|25962|28340|30973|33812|36728|39900|42980|46282|49885|53860|58138|62401|67311|72482|78083|84573|91525|99056|107579|117792|127921|139538|152379|166158|181320|196047|211506|227034|242046|255296|268138|278816|287443|294891|298842|300507|298887|295799|290117|282612|273114|263177|251665|240159|227234|214105|201373|189180|177299|165213|154485|142282|131575|120925|110693|100612|90305|81028|72070|63056|55549|48376|41980|36467|31206|26916|23109|19774|16585|13909|12080|10300|8831|7571|6537|5587|4661|4004|3499|2963|2604|2097|1915|1647|1423|1243|1059|872|849|675|623|549|518|403|402|339|332|247|280|236|218|193|175|178|156|163|128|118|105|112|113|105|85|101|84|96|68|88|72|74|63|61|61|63|51|49|60|50|46|48|48|44|39|36|32|54|40|38|45|33|47|32|37|35|37|38|43|44|64|60|70|86|98|111|148|591</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">133.4932132842</MDI>
+      <MDI key="STATISTICS_STDDEV">17.980241691875</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <NoDataValue>2.56000000000000E+002</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>255.5</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>4862|634|1331|789|1004|846|724|822|659|779|614|671|648|611|669|650|706|611|637|660|677|659|670|668|632|706|659|710|628|682|761|678|753|779|795|799|787|836|812|844|901|943|884|892|1031|1035|1078|1126|1162|1194|1160|1235|1292|1356|1471|1485|1632|1619|1701|1795|1878|1983|2027|2129|2235|2388|2575|2613|2800|3089|3073|3371|3544|3711|4087|4457|4827|5231|5792|6271|7031|7719|8340|9263|10438|11416|12699|14111|15414|17328|18894|21064|23133|25587|28165|30925|33611|36937|40455|44231|48299|52647|57189|62146|66889|72488|78524|84668|92283|99128|107275|115802|124761|135178|146049|156919|167878|179330|190729|203191|213770|225322|236573|245102|253364|260496|265880|270181|273241|272729|270375|269782|263903|257574|249904|241685|232560|222542|212437|203325|191134|181755|170605|161342|151437|142144|132204|123103|113663|105008|95671|87003|77979|70948|62969|56580|49749|44136|38813|33772|29363|25847|22428|19301|16714|14106|12201|10647|9085|7925|6791|5878|5165|4370|3777|3154|2757|2300|2096|1752|1585|1398|1151|995|839|763|677|567|475|441|432|341|351|298|273|256|195|196|203|165|140|125|123|124|132|97|89|88|82|82|73|68|55|66|61|55|46|44|38|45|39|34|45|47|36|31|27|21|33|37|43|32|29|30|27|26|23|30|21|30|23|23|26|25|23|21|27|24|29|24|33|48|40|58|26|813</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">127.45232669179</MDI>
+      <MDI key="STATISTICS_STDDEV">18.095933248164</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
